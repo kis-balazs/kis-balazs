@@ -15,7 +15,7 @@
 <!-- websites and link -->
 <p align="center">
 
-<a href="https://linkedin.com" target="blank">
+<a href="https://www.linkedin.com/in/kisbal%C3%A1zs35/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 <a href="https://www.reddit.com/user/balazs_kis" target="blank">
