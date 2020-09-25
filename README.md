@@ -15,6 +15,13 @@ I enjoy working on my own projects in my spare time, or just to read about my fa
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 </p>
 
+<!-- status codes -->
+<a align="center">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kis-balazs&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kis-balazs&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
+
 
 
 <!-- websites and link -->
