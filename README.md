@@ -36,7 +36,7 @@ I enjoy – besides being almost annoyingly curious – working on my own projec
 <a href="https://github.com/kis-balazs" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
 </a>
-<a href="https://gitlab.com" target="blank">
+<a href="https://gitlab.com/kis-balazs" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 </p>
