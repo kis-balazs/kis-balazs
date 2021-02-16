@@ -3,18 +3,6 @@
 ### I am a Junior Software Engineer @ Porsche Engineering Romania, living in Cluj-Napoca, while being a 4th year Computer Engineering student at the Technical University of Cluj-Napoca.
 I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my favorite subjects: automotive, operating systems, performance computing, and the list goes on! :)
 
-<!-- programming langs i work-->
-<p align="center">
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-</p>
-
 <!-- status codes -->
 <a align="center">
     <p align="center">
