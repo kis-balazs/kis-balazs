@@ -1,7 +1,7 @@
 # Hi! :D
 
 ### I am a Junior Software Engineer @ Porsche Engineering Romania, living in Cluj-Napoca, while being a 4th year Computer Engineering student at the Technical University of Cluj-Napoca.
-I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my favorite subjects: automotive, operating systems, performance computing, and the list goes on! :)
+I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my favorite subjects: artificial intelligence (DL, ML, Learning systems), automotive, operating systems, performance computing, and the list goes on! :)
 
 <!-- status codes -->
 <a align="center">
