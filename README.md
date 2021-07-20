@@ -12,6 +12,8 @@ I enjoy – besides being almost annoyingly curious – working on my own projec
 * operating systems
 * performance computing
 
+___
+
 <!-- status codes -->
 <a align="center">
     <p align="center">
