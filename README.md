@@ -1,6 +1,6 @@
 # Hi! :D
 
-### I am a Software Engineer @ Porsche Engineering Romania, living in Cluj-Napoca.
+### I am a Software Engineer @ Porsche Engineering Romania in Cluj-Napoca.
 
 #### Academic background:
 * Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021.
