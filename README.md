@@ -3,7 +3,8 @@
 ### I am a Software Engineer @ Porsche Engineering Romania in Cluj-Napoca.
 
 #### Academic background:
-* Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021.
+- [ ] Computer Science MSc, University of Stuttgart – 2021-TBD;
+- [x] Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021.
 
 I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my subjects of interest:
 * artificial intelligence (DL, ML)
