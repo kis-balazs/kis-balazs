@@ -1,6 +1,9 @@
 # Hi! :D
 
-### I am a Junior Software Engineer @ Porsche Engineering Romania, living in Cluj-Napoca, while being a 4th year Computer Engineering student at the Technical University of Cluj-Napoca.
+### I am a Software Engineer @ Porsche Engineering Romania, living in Cluj-Napoca.
+
+#### Academic background: Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021.
+
 I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my subjects of interest: artificial intelligence (DL, ML), automotive, operating systems, performance computing, and the list goes on! :)
 
 <!-- status codes -->
