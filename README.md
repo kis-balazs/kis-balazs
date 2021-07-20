@@ -5,7 +5,13 @@
 #### Academic background:
 * Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021.
 
-I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my subjects of interest: artificial intelligence (DL, ML), automotive, operating systems, performance computing, and the list goes on! :)
+I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my subjects of interest:
+* artificial intelligence (DL, ML)
+* automotive
+* operating systems
+* performance computing
+
+and the list goes on! :)
 
 <!-- status codes -->
 <a align="center">
