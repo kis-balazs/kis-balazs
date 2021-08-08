@@ -15,6 +15,7 @@ I enjoy – besides being almost annoyingly curious – working on my own projec
 * performance computing
 
 ___
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kis-balazs&label=Profile%20views&color=0e75b6&style=flat" alt="kis-balazs" /> </p>
 
 <!-- status codes -->
 <a align="center">
@@ -22,8 +23,6 @@ ___
     <img src="https://github-readme-stats.vercel.app/api?username=kis-balazs&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kis-balazs&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
-
-
 
 <!-- websites and link -->
 <p align="center">
