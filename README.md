@@ -1,6 +1,6 @@
 # Hi! :D
 
-### I am a Software Engineer @ Porsche Engineering Germany.
+### I am a Machine Learning Engineer @ Porsche Engineering Germany.
 
 #### Academic background:
 - [ ] Computer Science MSc, University of Stuttgart - 2021 -2023
