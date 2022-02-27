@@ -10,7 +10,7 @@
 
 ___
 
-I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time, or just to read about my subjects of interest, some of them are:
+I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time (excuse me, the what?), or just to read about my subjects of interest, some of them are:
 * artificial intelligence (DL, ML)
 * automotive
 * operating systems
