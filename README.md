@@ -1,4 +1,4 @@
-# Hi! :D
+# Hi! :smile:
 
 ### I am a Machine Learning Engineer @ Porsche Engineering Germany.
 
