@@ -4,7 +4,7 @@
 
 #### Academic background:
 - [ ] Computer Science MSc, University of Stuttgart - 2021 -2023
-    - *Major*: Autonomous Systems - _Artificial Intelligence, ML/DL_
+    - *Major*: Autonomous Systems - _Artificial Intelligence, ML/CV_
 - [x] Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021
     - *Thesis title*: CANComm - A Lightweight Automotive Network Simulator
 
@@ -12,6 +12,7 @@ ___
 
 I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time (excuse me, the what?), or just to read about my subjects of interest, some of them are:
 * artificial intelligence (DL, ML)
+* image processing, computer vision
 * automotive
 * operating systems
 * performance computing
