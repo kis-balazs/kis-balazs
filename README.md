@@ -2,6 +2,8 @@
 
 ### I am a Machine Learning Engineer @ Porsche Engineering Germany.
 
+Short introduction: Highly technical-oriented, driven by being extremely curious.
+
 #### Academic background:
 - [ ] Computer Science MSc, University of Stuttgart - 2021 -2023
     - *Major*: Autonomous Systems - _Artificial Intelligence, ML/CV_
@@ -10,7 +12,7 @@
 
 ___
 
-I enjoy – besides being almost annoyingly curious – working on my own projects in my spare time (excuse me, the what?), or just to read about my subjects of interest, some of them are:
+I enjoy working on my own projects in my spare time (excuse me, the what?), or just to read about my subjects of interest, some of them are:
 * artificial intelligence (DL, ML)
 * image processing, computer vision
 * automotive
