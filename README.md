@@ -13,9 +13,7 @@ Short introduction: Highly technical-oriented, driven by being extremely curious
 ___
 
 I enjoy working on my own projects in my spare time (excuse me, the what?), or just to read about my subjects of interest, some of them are:
-* artificial intelligence (DL, ML)
-* image processing, computer vision
-* automotive
+* machine learning, computer vision
 * operating systems
 * performance computing
 
