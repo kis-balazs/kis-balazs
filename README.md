@@ -4,20 +4,24 @@
 
 Short introduction: Highly technical-oriented, driven by being extremely curious.
 
+#### Here you can find an overview page of [my research](https://kis-balazs.github.io/ml-work/) in the field of ML
+
+---
+
 #### Academic background:
 - [ ] Computer Science MSc, University of Stuttgart - 2021 -2023
     - *Major*: Autonomous Systems - _Artificial Intelligence, ML/CV_
 - [x] Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021
     - *Thesis title*: CANComm - A Lightweight Automotive Network Simulator
+---
 
-___
-
-I enjoy working on my own projects in my spare time (excuse me, the what?), or just to read about my subjects of interest, some of them are:
+I enjoy working on my own projects in my spare time, or just to read about my subjects of interest, some of them are:
 * machine learning, computer vision
 * operating systems
 * performance computing
 
-___
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kis-balazs&label=Profile%20views&color=0e75b6&style=flat" alt="kis-balazs" /> </p>
 
 <!-- status codes -->
