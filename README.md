@@ -2,17 +2,18 @@
 
 ### I am a Machine Learning Engineer @ Porsche Engineering Germany.
 
-Short introduction: Highly technical-oriented, driven by being extremely curious.
+Short introduction: Highly technical-oriented, driven by extreme curiousity.
 
 #### Here you can find an overview page of [my research](https://kis-balazs.github.io/ml-work/) in the field of ML
 
 ---
 
 #### Academic background:
-- [ ] Computer Science MSc, University of Stuttgart - 2021 -2023
+- [x] Computer Science MSc, University of Stuttgart - 2021 -2023
     - *Major*: Autonomous Systems - _Artificial Intelligence, ML/CV_
+    - *Thesis*: Using Transformers to Improve Anomalous Trajectory Detection for Autonomous Driving
 - [x] Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021
-    - *Thesis title*: CANComm - A Lightweight Automotive Network Simulator
+    - *Thesis*: CANComm - A Lightweight Automotive Network Simulator
 ---
 
 I enjoy working on my own projects in my spare time, or just to read about my subjects of interest, some of them are:
