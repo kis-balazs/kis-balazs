@@ -1,6 +1,8 @@
 # Hi! :smile:
 
-### I am a Machine Learning Engineer @ Porsche Engineering Germany.
+### Building cool stuff with cars.
+
+I work as a Machine Learning Engineer @ Porsche Engineering Germany.
 
 Short introduction: Highly technical-oriented, driven by extreme curiousity.
 
