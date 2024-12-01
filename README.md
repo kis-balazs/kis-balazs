@@ -1,6 +1,6 @@
 # Hi! :smile:
 
-### Building cool stuff with cars.
+### Currently building cool stuff with cars.
 
 > I work as a Machine Learning Engineer @ Porsche Engineering Germany.
 
