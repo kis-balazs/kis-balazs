@@ -18,11 +18,11 @@ Short introduction: Highly technical-oriented, driven by extreme curiousity.
     - *Thesis*: CANComm - A Lightweight Automotive Network Simulator
 ---
 
-I enjoy working on my own projects in my spare time, or just to read about my subjects of interest, some of them are:
+I work and also find pleasure in generally exploring in several fields, some of them are (this is an unordered list):
 * machine learning, computer vision
 * autonomous systems
 * operating systems
-* performance computing
+* performance computing (parallel processing, CUDA)
 
 ---
 
