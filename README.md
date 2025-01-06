@@ -1,8 +1,8 @@
 # Hi! :smile:
 
-### Currently building cool stuff in the field of autonomous vehicles.
+### Currently working as an autonomous vehicle software engineer @ NVIDIA.
 
-> I work as a Machine Learning Engineer @ Porsche Engineering Germany.
+> Previously worked as: Machine Learning Engineer @ Porsche Engineering Germany.
 
 Short introduction: Highly technical-oriented, driven by extreme curiousity.
 
