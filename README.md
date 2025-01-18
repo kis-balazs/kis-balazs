@@ -1,8 +1,11 @@
 # Hi! :smile:
 
-### Currently working as an autonomous vehicle software engineer @ NVIDIA.
+### Currently working as a L2(++)/L3 Autonomous Vehicle Software Engineer @ [NVIDIA](https://github.com/NVIDIA).
 
-> Previously worked as: Machine Learning Engineer @ Porsche Engineering Germany.
+> Previously worked as:
+> - Machine Learning Engineer @ Porsche Engineering Germany.
+
+---
 
 Short introduction: Highly technical-oriented, driven by extreme curiousity.
 
