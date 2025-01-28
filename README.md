@@ -1,9 +1,9 @@
 # Hi! :smile:
 
-### Currently working as a L2(++)/L3 Autonomous Vehicle Software Engineer @ [NVIDIA](https://github.com/NVIDIA).
+### Currently working as a L2(++)/L3 Autonomous Vehicles Software Engineer @ [NVIDIA](https://github.com/NVIDIA).
 
 > Previously worked as:
-> - Machine Learning Engineer @ Porsche Engineering Germany.
+> - Machine Learning Engineer @ [Porsche Engineering Germany](https://www.porscheengineering.com/de/peg).
 
 ---
 
