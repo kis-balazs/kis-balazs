@@ -22,9 +22,7 @@ Short introduction: Highly technical-oriented, driven by extreme curiousity.
 ---
 
 I work and also find pleasure in generally exploring in several fields, some of them are (this is an unordered list):
-* machine learning, computer vision
-* autonomous systems
-* operating systems
+* machine learning, computer vision; more broadly, autonomous systems
 * performance computing (parallel processing, CUDA)
 
 ---
