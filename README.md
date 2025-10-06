@@ -32,7 +32,7 @@ I work and also find pleasure in generally exploring in several fields, some of 
 <!-- status codes -->
 <a align="center">
     <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=kis-balazs&theme=tokyonight" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kis-balazs&layout=compact&theme=tokyonight" alt="languages" height="165">
+        <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=kis-balazs&theme=tokyo-night" width="475"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kis-balazs&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 
