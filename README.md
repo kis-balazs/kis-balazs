@@ -14,11 +14,12 @@ Short introduction: Highly technical-oriented, driven by extreme curiousity.
 ---
 
 #### Academic background:
-- [x] Computer Science MSc, University of Stuttgart - 2021 -2023
-    - *Major*: Autonomous Systems - _Artificial Intelligence, ML/CV_
-    - *Thesis*: Using Transformers to Improve Anomalous Trajectory Detection for Autonomous Driving
-- [x] Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021
-    - *Thesis*: CANComm - A Lightweight Automotive Network Simulator
+✅ Computer Science MSc, University of Stuttgart - 2021 -2023
+  - *Major*: Autonomous Systems - _Artificial Intelligence, ML/CV_
+  - *Thesis*: Using Transformers to Improve Anomalous Trajectory Detection for Autonomous Driving
+
+✅ Computer Science BSc, Technical University of Cluj-Napoca – 2017-2021
+  - *Thesis*: CANComm - A Lightweight Automotive Network Simulator
 ---
 
 I work and also find pleasure in generally exploring in several fields, some of them are (this is an unordered list):
