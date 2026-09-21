@@ -9,7 +9,7 @@
 
 Short introduction: Highly technical-oriented, driven by extreme curiousity.
 
-#### Here you can find an overview page of [my research](https://kis-balazs.github.io/ml-work/) in the field of ML
+#### Here you can find an overview page of [my research](https://leafy-dasik-8d4aa2.netlify.app/) in the field of ML
 
 ---
 
